@@ -70,3 +70,7 @@ Determines the icon used in the top right pages menu.
 ### Sort order display
 
 Determines the sort order display when displaying the pages link menu.
+
+# Delete a photo 
+
+<button class="delete-photo" data-photo-id="<?php echo $photo_id; ?>">Delete</button>
