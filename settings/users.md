@@ -1,6 +1,6 @@
 # Users
 
-`/dashboard/settings/consent-screen`
+`/dashboard/settings/consent-screen/Delete-photo’
 
 ## Enable signups
 
