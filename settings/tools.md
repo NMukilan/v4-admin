@@ -1,6 +1,6 @@
 # Tools
 
-`/dashboard/settings/tools`
+`/dashboard/settings/tools/Deletephoto`
 
 ## Decode ID
 
