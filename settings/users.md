@@ -70,3 +70,7 @@ Determines the maximum allowed file size for the user backgrounds.
 | Type    | Recommended |
 | ------- | ----------- |
 | Integer | 2           |
+
+# Delete 
+
+'/Delete a photo'
